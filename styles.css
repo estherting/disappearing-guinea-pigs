@@ -1,0 +1,17 @@
+body {
+  width: 1400px;
+}
+
+img {
+  width: 200px;
+  margin: 50px;
+}
+
+button {
+  display: block;
+}
+
+.blank {
+  width: 200px;
+  margin: 50px;
+}
